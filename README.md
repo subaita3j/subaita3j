@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SUBAITA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Currently workinng as QA Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaita3j&label=Profile%20views&color=0e75b6&style=flat" alt="subaita3j" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subaita3j" alt="subaita3j" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently working on ** AI ML Technologies **
 
 - 📫 How to reach me **subaita9113j@gmail.com**
 
